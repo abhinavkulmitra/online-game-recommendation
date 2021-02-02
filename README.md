@@ -1,2 +1,2 @@
 # online-game-recommendation
-Created with CodeSandbox
+A Reactjs app which gives game recommendation.
